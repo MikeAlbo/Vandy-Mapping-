@@ -23,6 +23,6 @@ A simple map viewable from both desktops and portable devices.
 
 ### Technologies / Servcies
 
-* Bootstrap (v. TBD)
-* Leaflet JS (v. TBD)
-* Open Street Maps Tile server (v. TBD)
+* Bootstrap (v. 3.3.5)
+* Leaflet JS (v. 0-2)
+* Mapbox Tile Server 
