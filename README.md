@@ -2,7 +2,7 @@
 
 ## About
 
-A simple map viewable from bot desktops and portable devices.
+A simple map viewable from both desktops and portable devices.
 
 ## Objectives
 
