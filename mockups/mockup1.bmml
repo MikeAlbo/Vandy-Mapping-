@@ -1,0 +1,69 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2566" measuredH="899" mockupW="2290" mockupH="834">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="276" y="65" w="1017" h="711" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vandy%20Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Map" x="577" y="140" w="716" h="610" measuredW="252" measuredH="222" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="305" y="205" w="257" h="243" measuredW="135" measuredH="226" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%5Bx%5D%20Medical%0A%5Bx%5D%20Academic%20%0A%20%0A%5Bx%5D%20Law%0A%5B%20%5D%20English%0A%5B%20%5D%20%20History%0A%5B%20%5D%20etc</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="335" y="154" w="-1" h="-1" measuredW="197" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vandy%20Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="335" y="634" w="-1" h="-1" measuredW="128" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20Yo%27self%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::iPhone" x="1476" y="65" w="542" h="834" measuredW="282" measuredH="573" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhone" x="2024" y="65" w="542" h="834" measuredW="282" measuredH="573" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="1688" y="221" w="-1" h="-1" measuredW="119" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vandy%20Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Map" x="1577" y="248" w="335" h="475" measuredW="252" measuredH="222" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="1641" y="738" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GeoLocation2Icon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="1807" y="738" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="2158" y="272" w="257" h="243" measuredW="135" measuredH="226" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%5Bx%5D%20Medical%0A%5Bx%5D%20Academic%20%0A%20%0A%5Bx%5D%20Law%0A%5B%20%5D%20English%0A%5B%20%5D%20%20History%0A%5B%20%5D%20etc</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="2414" y="258" w="-1" h="433" measuredW="16" measuredH="100" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="2279" y="734" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>WorldIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SubTitle" x="2236" y="221" w="-1" h="-1" measuredW="119" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vandy%20Map</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
