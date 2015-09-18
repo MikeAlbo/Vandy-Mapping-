@@ -10,7 +10,9 @@ var locations = {"type":"FeatureCollection",
                 {"OBJECTID":1, 
                  "NAME": "Med Center North", 
                  "ADDRESS" :"1210 Medical Center Dr.", 
-                 "NOTES": "Good luck finding it."}]
+                 "NOTES": "Good luck finding it.",
+                "AREA": : "Medical"
+                }]
 
 
 };
