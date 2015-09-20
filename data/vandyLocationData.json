@@ -1,18 +1,3 @@
-var locations = {"type":"FeatureCollection",
-                 
-    "Features": ["type":"Feature", "id":1,
-            
-                 "geometry": {
-                    "type":"Point",
-                    "coordinates": [36.142000, -86.802843]}, 
-
-            "properties":
-                {"OBJECTID":1, 
-                 "NAME": "Med Center North", 
-                 "ADDRESS" :"1210 Medical Center Dr.", 
-                 "NOTES": "Good luck finding it.",
-                "AREA": : "Medical"
-                }]
-
-
-};
+var locations {
+    
+}                                                
