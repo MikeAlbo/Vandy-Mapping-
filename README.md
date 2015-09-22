@@ -26,3 +26,11 @@ A simple map viewable from both desktops and portable devices.
 * Bootstrap (v. 3.3.5)
 * Leaflet JS (v. 0-2)
 * Mapbox Tile Server 
+
+### Version
+
+* 0.1 Initial 
+** dynamic layout mocked up
+** basic geojon intigration 
+** map loads
+** markers created 
