@@ -30,7 +30,7 @@ A simple map viewable from both desktops and portable devices.
 ### Version
 
 * 0.1 Initial 
-** dynamic layout mocked up
-** basic geojon intigration 
-** map loads
-** markers created 
+  * dynamic layout mocked up
+  * basic geojon intigration 
+  * map loads
+  * markers created 
